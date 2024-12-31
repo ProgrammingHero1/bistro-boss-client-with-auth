@@ -23,7 +23,7 @@ Bistro Boss is a comprehensive restaurant management website built using the MER
 - **Created Form for Authentication Using React Hook Form:** Implemented authentication forms using `react-hook-form` for efficient form handling and validation.
 - **Added Captcha for Preventing DDOS Attack:** Integrated `react-simple-captcha` to add a captcha to the authentication forms, ensuring protection against automated attacks.
 - **Implemented Sweetalert for Login and Registration Events:** Used `sweetalert` to provide user-friendly and visually appealing alerts for successful and failed login/registration attempts.
-- **Added Validation with Regex:** Applied regular expressions for robust validation of user inputs during registration and login processes.
+- **Added Validation with Regex:** Applied regular expressions for robust validation of user inputs during registration & login processes.
 - **Updated User Profile After Successful Login:** Implemented functionality to update and display user profile information upon successful login.
 
 ## Getting Started
